@@ -8,4 +8,4 @@ print('Ki kote ou ye? (海地克里奧文)')
 
 print('어디 있니? (韓文)')
 print('Hvor er du? (丹麥文)')
-print('คุณอยู่ที่ไหน? ()泰文')
+print('คุณอยู่ที่ไหน? (泰文)')
