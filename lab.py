@@ -1,0 +1,2 @@
+# -*- coding: unicode -*-
+print('test')
