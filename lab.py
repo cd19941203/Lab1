@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 print('妳在哪裡')
 
 print('Waar ben je? (荷蘭文)')
